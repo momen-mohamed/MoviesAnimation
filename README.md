@@ -2,4 +2,6 @@
 
 Flutter Movies animation.
 
-<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:216.54%;position:relative;"><iframe width="260" height="563" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/473opt"></iframe></div><p><a href="https://imgflip.com/gif/473opt">via Imgflip</a></p></div>
+
+<img src="https://media.giphy.com/media/fAQbT5H3cKo4G7u1LI/giphy.gif" width="40" height="40" />
+
